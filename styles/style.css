@@ -17,3 +17,9 @@ body {
     margin: 0 auto;
     font-size: 30px;
 }
+
+#cover img{
+    margin-left: 38%;
+    height: 700px;
+    width: 400px;
+}
